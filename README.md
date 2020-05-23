@@ -4,10 +4,13 @@
 
 
 Podfile
+
 To integrate TencentOpenAPI into your Xcode project using CocoaPods, specify it in your Podfile:
 
 ```pod 'TencentOpenAPI',:git =>'https://github.com/chenxing890/TencentOpenAPI.git'```
+
 How to use
+
 https://wiki.connect.qq.com
 
 Swift needs a Objective-C Bridging Header file.
